@@ -1,0 +1,9 @@
+{
+    "name": "Gorvine/Main",
+    "description": "test",
+    "version": "test",
+    "license": "none",
+    "autoload": {
+        "classmap": ["Gorvine/"]
+    }
+}

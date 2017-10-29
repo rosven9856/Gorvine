@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Gorvine\\": "src/Gorvine/"
+            "Gorvine\\Test\\": "src/Gorvine/Test/"
         }
     },
     "classmap": [

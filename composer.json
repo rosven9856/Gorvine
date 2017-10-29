@@ -1,7 +1,7 @@
 {
     "name": "gorvine/gorvine",
     "description": "test",
-    "version": "test",
+    "version": "0.0.1",
     "license": "none",
     "autoload": {
         "psr-4": {

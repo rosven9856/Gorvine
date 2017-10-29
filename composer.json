@@ -4,6 +4,8 @@
     "version": "test",
     "license": "none",
     "autoload": {
-        "classmap": ["Gorvine/"]
+        "psr-4": {
+            "Gorvine": "src/Gorvine/",
+        }
     }
 }

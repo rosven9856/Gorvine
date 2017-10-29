@@ -4,7 +4,8 @@ namespace Gorvine;
 
 class Test 
 {
-
-// test
-
+    public static function test()
+    {
+        echo 'test';    
+    }
 }

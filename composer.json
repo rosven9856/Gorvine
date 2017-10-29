@@ -5,11 +5,8 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Gorvine\\Test\\": "src/Gorvine/Test/"
+            "Gorvine\\": "src/Gorvine/"
         }
     },
-    "classmap": [
-        "src/Gorvine/"
-    ],
     "minimum-stability": "dev"
 }

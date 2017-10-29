@@ -8,5 +8,8 @@
             "Gorvine\\": "src/Gorvine/"
         }
     },
+    "classmap": [
+        "src/Gorvine/"
+    ],
     "minimum-stability": "dev"
 }

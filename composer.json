@@ -1,11 +1,12 @@
 {
     "name": "gorvine/gorvine",
     "description": "test",
-    "version": "1.0.0-alpha1",
-    "license": "none",
+    "version": "0.0.1-alpha1",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Gorvine": "src/Gorvine/",
+            "Gorvine": "src/Gorvine",
         }
-    }
+    },
+    "minimum-stability": "dev",
 }
